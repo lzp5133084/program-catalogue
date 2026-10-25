@@ -1,0 +1,6 @@
+__pycache__/
+data/*.db
+data/*.db-journal
+*.pyc
+_tmp_*.py
+.DS_Store
